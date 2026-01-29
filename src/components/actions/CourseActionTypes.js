@@ -1,0 +1,2 @@
+export const SELECT_COURSE = 'SELECT_COURSE';
+export const DESELECT_COURSE = 'DESELECT_COURSE';
